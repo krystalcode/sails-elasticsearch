@@ -1,3 +1,5 @@
+*WARNING - This node module is currently under heavy development - DON NOT USE IN PRODUCTION*
+
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
 # waterline-elasticsearch
